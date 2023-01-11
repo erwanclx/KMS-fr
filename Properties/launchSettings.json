@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestKMS (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestKMS (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
